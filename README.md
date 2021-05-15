@@ -6,8 +6,8 @@
 #In this project we examined data from two bike-sharing programs in Porto, Portugal and Seoul, South Korea. 
 
 #from UCI Machine Learning Repository, Center for Machine Learning and Intelligent Systems
-#Portugal: [https://archive.ics.uci.edu/ml/datasets/bike%2Bsharing%2Bdataset]
-#South Korea: [https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand]
+#Portugal: [https://archive.ics.uci.edu/ml/datasets/bike%2Bsharing%2Bdataset], attribute information on webpage
+#South Korea: [https://archive.ics.uci.edu/ml/datasets/Seoul+Bike+Sharing+Demand], attribute information on webpage
 
 #The aim is to analyze trends in these datasets and use those trends to inform decisions on how to develop and operate a new bike-sharing program. Are there observable differences in customers' use of the bike-sharing program? Is there variation between the Portuguese and Korean programs? Does weather matter to the success of the business? Can we quantify to what degree weather is an important variable?
 
